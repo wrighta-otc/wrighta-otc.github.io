@@ -1,0 +1,78 @@
+footer.bg-faded, nav.navbar.navbar-expand-lg.navbar-light.bg-faded.py-lg-4
+{
+	/*background-color:#e4e4e4;*/
+	color:#4e4e4e;
+}
+
+footer.bg-faded, footer.bg-faded a:link, footer.bg-faded a:visited
+{
+	background-color:#154ae1;
+	color:#fff;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-faded.py-lg-4 a:link, nav.navbar.navbar-expand-lg.navbar-light.bg-faded.py-lg-4 a:visited
+{
+	color:#4e4e4e;
+}
+
+div.header-text
+{
+	text-align:center;
+	background-color:#154ae1;
+}
+
+div.logo
+{
+	text-align:left;
+	margin:0px;
+	padding:0px;
+}
+
+div.logo img
+{
+	max-width:195px;
+	margin:0px;
+}
+
+div.badge, div.badge img
+{
+	margin:0px;
+}
+div.badge
+{
+	margin:0px;
+	padding:0px;
+}
+
+div.badge img
+{
+	position: fixed;
+	top:0px;
+	right:0px;
+	max-width: 100px;
+	z-index:99;
+}
+
+.row
+{
+	margin-left:0px;
+	margin-right:0px;
+}
+
+.btn, .btn-secondary
+{
+	background-color:#154ae1;
+	color:#fff;
+}
+
+.button-wide
+{
+	width:100%;
+	padding:15px;
+}
+
+.button-wide button
+{
+	width:100%;
+	padding:15px;
+}
