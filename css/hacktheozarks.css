@@ -76,3 +76,43 @@ div.badge img
 	width:100%;
 	padding:15px;
 }
+
+footer
+{
+	position:absolute;
+	width:100%;
+}
+
+footer div.container
+{
+	min-width:95%;
+	clear:both;
+	float:left;
+}
+
+div.social
+{
+	font-size:2em;
+	float:left;
+}
+
+@media only screen and (max-width:850px)
+{
+	footer
+	{
+		background-color:#00ff00;
+	}
+	div.social, footer div.container;
+	{
+		min-width:100% !important;
+		clear:both !important;
+		float:none !important;
+	}
+	
+	div.social
+	{
+		text-align:center !important;
+		float:none;
+		clear:both;
+	}
+}
