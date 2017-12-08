@@ -18,7 +18,12 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-faded.py-lg-4 a:link, nav.navbar.nav
 div.header-text
 {
 	text-align:center;
-	background-color:#154ae1;
+	background-color:#ffffff;
+}
+
+div.header-text-custom
+{
+	color:#000 !important;
 }
 
 div.logo
